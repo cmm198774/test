@@ -8,3 +8,4 @@ if __name__ == "__main__":
     print(greet("World"))
     print(greet("GitHub"))
     print(farewell("Friend"))
+    print(farewell("ami"))
