@@ -13,3 +13,4 @@ if __name__ == "__main__":
     print(farewell("Friend"))
     print(farewell2("ami"))
     print("Modified by branch A")
+    print("Modified by branch B")
