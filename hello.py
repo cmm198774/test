@@ -12,3 +12,4 @@ if __name__ == "__main__":
     print(greet("GitHub"))
     print(farewell("Friend"))
     print(farewell2("ami"))
+    print("Modified by branch B")
